@@ -6,7 +6,7 @@ There are 3 task given to complete. After completing all tasks, if everything lo
 ## LEVEL 2 - TASK 2 - TRIBUTE PAGE  [ [ Click Here ] ](https://imsubhajit98.github.io/OIBSIP-Tribute-Page/)
 A Tribute Page created under the virtual internship program of Oasis Infobyte. <br>
 
-#### Skill - HTML, CSS, JavaScript
+### Skill - HTML, CSS, JavaScript with Full Responsive any device like mobile,ipad etc.
 ![image](https://user-images.githubusercontent.com/74090703/220611468-2fef82d9-55d7-48f1-9d47-21336017260f.png)
 
 
